@@ -1,13 +1,13 @@
-# Vitor Henrique
+# 👋 Vitor Henrique
 
-Full Stack Developer | Backend-first | Node.js
+💻 Full Stack Developer | Backend-first | Node.js
 
 Desenvolvedor focado em resolver problemas reais com soluções simples, legíveis e escaláveis.  
 Experiência prática com **Node.js**, **Next.js** e infraestrutura própria.
 
 ---
 
-## Stack principal
+## 🛠️ Stack principal
 
 **Frontend**
 - React
@@ -33,7 +33,7 @@ Experiência prática com **Node.js**, **Next.js** e infraestrutura própria.
 
 ---
 
-## O que eu desenvolvo
+## 📦 O que eu desenvolvo
 
 - MicroSaaS
 - Sistemas internos (financeiro, RH, contratos, tickets)
@@ -45,7 +45,7 @@ Experiência prática com **Node.js**, **Next.js** e infraestrutura própria.
 
 ---
 
-## Filosofia
+## 🧠 Filosofia
 
 - Resolver > impressionar
 - Simples > complexo
@@ -54,7 +54,7 @@ Experiência prática com **Node.js**, **Next.js** e infraestrutura própria.
 
 ---
 
-## Atualmente estudando
+## 🔍 Atualmente estudando
 
 - DevOps
 - Arquitetura de sistemas
@@ -63,6 +63,7 @@ Experiência prática com **Node.js**, **Next.js** e infraestrutura própria.
 
 ---
 
-## Contato
+## 📫 Contato
 
-GitHub: https://github.com/seu-usuario
+GitHub: https://github.com/VitorMaceno
+Linkedin: https://www.linkedin.com/in/macena-dev
